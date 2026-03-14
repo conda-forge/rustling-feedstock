@@ -40,8 +40,8 @@ about:
   license_file:
     - LICENSE.md
     - THIRDPARTY.yml
-  summary: Blazingly fast library for computational linguistics
-  documentation: https://rustling.readthedocs.io/
+  summary: A blazingly fast library for computational linguistics
+  documentation: https://docs.rustling.io/
 
 extra:
   recipe-maintainers:

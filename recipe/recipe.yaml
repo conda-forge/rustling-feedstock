@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.7.0"
+  version: "0.8.0"
 
 package:
   name: rustling
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/r/rustling/rustling-${{ version }}.tar.gz
-  sha256: bf67d9a286750e37eff4211e5a3f56133a00b956ed46515f6dd631fc51e70c19
+  sha256: 04d769e50ff2c8b0bc5fb178f0a1dba578427b6a7d9027253366d1ac8922e1fd
 
 build:
   number: 0

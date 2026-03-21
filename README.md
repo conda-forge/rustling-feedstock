@@ -7,9 +7,9 @@ Home: https://github.com/jacksonllee/rustling
 
 Package license: MIT
 
-Summary: Blazingly fast library for computational linguistics
+Summary: A blazingly fast library for computational linguistics
 
-Documentation: https://rustling.readthedocs.io/
+Documentation: https://docs.rustling.io/
 
 Current build status
 ====================

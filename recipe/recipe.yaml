@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.8.0"
+  version: "0.9.0"
 
 package:
   name: rustling
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/r/rustling/rustling-${{ version }}.tar.gz
-  sha256: 04d769e50ff2c8b0bc5fb178f0a1dba578427b6a7d9027253366d1ac8922e1fd
+  sha256: c698de9a650d6675673f1ead4743a86eb6de0d42c82be479f036a395bf4f27c6
 
 build:
   number: 0
@@ -40,7 +40,7 @@ about:
   license_file:
     - LICENSE.md
     - THIRDPARTY.yml
-  summary: A blazingly fast library for computational linguistics
+  summary: A high-performance library for computational linguistics
   documentation: https://docs.rustling.io/
 
 extra:

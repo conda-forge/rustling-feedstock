@@ -40,7 +40,7 @@ about:
   license_file:
     - LICENSE.md
     - THIRDPARTY.yml
-  summary: A blazingly fast library for computational linguistics
+  summary: A high-performance library for computational linguistics
   documentation: https://docs.rustling.io/
 
 extra:
